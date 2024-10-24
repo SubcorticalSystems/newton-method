@@ -1,4 +1,4 @@
-public class Newton {
+public class NewtonMethod {
     //f(x)
     static double f(double x) {
         //return (x*x) - 7.2;
